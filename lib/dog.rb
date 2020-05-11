@@ -1,5 +1,5 @@
 class Dog
-  #companion of many
+
 end
 
 fido = Dog.new
